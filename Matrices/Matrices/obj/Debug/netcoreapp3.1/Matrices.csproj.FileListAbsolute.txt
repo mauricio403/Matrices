@@ -1,0 +1,16 @@
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\bin\Debug\netcoreapp3.1\Matrices.exe
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\bin\Debug\netcoreapp3.1\Matrices.deps.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\bin\Debug\netcoreapp3.1\Matrices.runtimeconfig.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\bin\Debug\netcoreapp3.1\Matrices.runtimeconfig.dev.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\bin\Debug\netcoreapp3.1\Matrices.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\bin\Debug\netcoreapp3.1\Matrices.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\obj\Debug\netcoreapp3.1\Matrices.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\obj\Debug\netcoreapp3.1\Matrices.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\obj\Debug\netcoreapp3.1\Matrices.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\obj\Debug\netcoreapp3.1\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\obj\Debug\netcoreapp3.1\Matrices.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\obj\Debug\netcoreapp3.1\Matrices.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\obj\Debug\netcoreapp3.1\Matrices.genruntimeconfig.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\bin\Debug\netcoreapp3.1\MatricesLibrary.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\bin\Debug\netcoreapp3.1\MatricesLibrary.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\Matrices\obj\Debug\netcoreapp3.1\Matrices.csproj.CopyComplete

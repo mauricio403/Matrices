@@ -1,0 +1,9 @@
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\bin\Debug\netstandard2.0\MatricesLibrary.deps.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\bin\Debug\netstandard2.0\MatricesLibrary.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\bin\Debug\netstandard2.0\MatricesLibrary.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\obj\Debug\netstandard2.0\MatricesLibrary.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\obj\Debug\netstandard2.0\MatricesLibrary.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\obj\Debug\netstandard2.0\MatricesLibrary.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\obj\Debug\netstandard2.0\MatricesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\obj\Debug\netstandard2.0\MatricesLibrary.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matrices\MatricesLibrary\obj\Debug\netstandard2.0\MatricesLibrary.pdb
